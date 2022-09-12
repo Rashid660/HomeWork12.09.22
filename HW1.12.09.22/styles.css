@@ -1,0 +1,71 @@
+.C{
+    color: red;
+    font-size: 2.5rem;
+}
+
+.ex1div{
+    background-color: yellow;
+}
+
+.alcohol{
+    text-decoration: none;
+}
+
+.line{
+text-decoration:line-through;
+}
+.uppercase{
+    text-transform: uppercase;
+    text-align: center;
+}
+
+.dog{
+    width:400px;
+    text-align: center;    
+    border: solid white 3px;
+    border-radius:40px;
+}
+
+.dog-div{
+    background-color:blue;
+    text-align: center;
+}
+
+.white{
+    color: white;
+
+}
+
+.fdiv{
+background-color: yellow;
+height:250px;
+width:100px;
+border: black solid 1px;
+display: inline-block;
+margin:0 30px;
+}
+
+.sdiv{
+    background-color: yellow;
+    height:250px;
+    width:100px;
+    border: black solid 1px; 
+    display: inline-block; 
+    margin:0 30px;
+}
+
+.tdiv{
+    background-color: yellow;
+    height:250px;
+    width:100px;
+    border: black solid 1px; 
+    display: inline-block; 
+    margin:0 30px;   
+}
+
+.adiv{
+    background-color:blue;
+    height:100px;
+    width: 100px;
+    border: red solid 3px;
+}
